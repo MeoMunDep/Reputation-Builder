@@ -64,11 +64,12 @@ query_id.../user...
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
 - [Get it from here](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+- EVM address
 
 ```txt - wallet address
-abc...xyz
-abc...xyz
-abc...xyz
+0x...
+0x...
+0x...
 ```
 
 ### 4. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
