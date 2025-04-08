@@ -1,13 +1,16 @@
 📞 Contact
 
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
 
 > If you encounter any issues or have questions, feel free to reach out:
 
-- Contact: [Link](t.me/MeoMunDep)
-- Group: [Link](t.me/KeoAirDropFreeNe)
-- Channel: [Link](t.me/KeoAirDropFreeNee)
+- **Support me via Donate** [Here](https://t.me/KeoAirDropFreeNe/312/27801)
+- **Contact for work:** [Telegram](https://t.me/MeoMunDep)
+- **Updates Channel:** [View channel](https://t.me/KeoAirDropFreeNee)
+- **YouTube Channel:** [Watch here](https://www.youtube.com/@keoairdropfreene)
+- **Instagram:** [Follow me](https://www.instagram.com/meomundep)
+- **Tiktok:** [Follow me](https://www.tiktok.com/@meomundep)
 
 > > > Help me with your referral [Link](https://t.me/ReputationBuilderBot?startapp=invite_nsw5k08999)
 
@@ -28,7 +31,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-proxy-agent
+   npm i user-agents cloudscraper axios colors https-proxy-agent socks-proxy-agent
    ```
 
 2. **Prepare Configuration Files:**
@@ -50,7 +53,8 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```
 
-### 2. `datas.txt` 🗂️ - Get data from [here](https://t.me/KeoAirDropFreeNe/257/6879).
+### 2. `datas.txt` 🗂️ - [Get it from here](https://t.me/KeoAirDropFreeNee/1586)
+
 
 ```txt
 query_id.../user...
@@ -59,6 +63,7 @@ query_id.../user...
 ```
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
+- [Get it from here](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
 
 ```txt - wallet address
 abc...xyz
@@ -67,17 +72,24 @@ abc...xyz
 ```
 
 ### 4. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
+- [Get it from here](https://www.webshare.io/?referral_code=4l5kb3glsce7)
 
 ```txt
-http://user:password@host:port
-https://user:password@host:port
-socks4://user:password@host:port
-socks5://user:password@host:port
+http://host:port
+https://host:port
+socks4://host:port
+socks5://host:port
+http://user:pass@host:port
+https://user:pass@host:port
+socks4://user:pass@host:port
+socks5://user:pass@host:port
 ```
 
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "reputation builder-main/reputation builder"; node 1`
+> To run the bot, use the following command: `cd "reputation builder-main/reputation builder"; node meomundep`
+
+
 
 🎇Enjoy!
