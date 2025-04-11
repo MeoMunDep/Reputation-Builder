@@ -102,7 +102,7 @@ fi
 
 check_configs
 
-for file in datas.txt wallets.txt proxies.txt; do
+for file in datas.txt privateKeys.txt proxies.txt; do
     if [ ! -f "$file" ]; then
         touch "$file"
         print_green "Created $file"
@@ -113,7 +113,7 @@ print_green "Configuration files have been checked."
 
 print_yellow "Checking dependencies..."
 cd "$MODULES_DIR"
-npm install user-agents axios colors https-proxy-agent socks-proxy-agent 
+npm install user-agents axios colors https-proxy-agent socks-proxy-agent solc ethers web3 bs58
 cd - > /dev/null
 print_green "Dependencies installation completed!"
 
