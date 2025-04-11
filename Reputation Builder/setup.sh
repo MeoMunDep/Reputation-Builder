@@ -73,7 +73,15 @@ create_default_configs() {
   "countdown": 300,
   "country_time": "en-US",
   "delayEachAccount": [1, 1],
-  "referralCode": "invite_nsw5k08999"
+  "referralCode": "invite_nsw5k08999",
+
+  "tokenConfig": {
+    "useConfiguredAddresses": false,
+    "recipientAddresses": [""],
+    "numTransfers": [3, 5],
+    "amountPerTransfer": [0.1, 1],
+    "delayBetweenTx": [3, 8]
+  }
 }
 EOL
 }
