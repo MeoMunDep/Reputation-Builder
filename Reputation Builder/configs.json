@@ -2,6 +2,14 @@
   "limit": 100,
   "countdown": 300,
   "country_time": "en-US",
-  "delayEachAccount": [1, 81],
-  "referralCode": "invite_nsw5k08999"
+  "delayEachAccount": [1, 1],
+  "referralCode": "invite_nsw5k08999",
+
+  "tokenConfig": {
+    "useConfiguredAddresses": false,
+    "recipientAddresses": [""],
+    "numTransfers": [3, 5],
+    "amountPerTransfer": [0.1, 1],
+    "delayBetweenTx": [3, 8]
+  }
 }
