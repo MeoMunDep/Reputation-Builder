@@ -31,7 +31,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents cloudscraper axios colors https-proxy-agent socks-proxy-agent
+   npm i user-agents cloudscraper axios meo-forkcy-colors https-proxy-agent socks-proxy-agent ethers web3
    ```
 
 2. **Prepare Configuration Files:**
@@ -46,11 +46,17 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
-  "delayEachAccount": [1, 81],
-  "referralCode": "invite_nsw5k08999"
-}
+  "delayEachAccount": [1, 1],
+  "referralCode": "invite_nsw5k08999",
 
+  "tokenConfig": {
+    "useConfiguredAddresses": false,
+    "recipientAddresses": [""],
+    "numTransfers": [3, 5],
+    "amountPerTransfer": [0.1, 1],
+    "delayBetweenTx": [3, 8]
+  }
+}
 ```
 
 ### 2. `datas.txt` 🗂️ - [Get it from here](https://t.me/KeoAirDropFreeNee/1586)
@@ -89,7 +95,7 @@ socks5://user:pass@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "reputation builder-main/reputation builder"; node meomundep`
+> To run the bot, use the following command: `cd "reputation builder"; node meomundep`
 
 
 
